@@ -1,0 +1,6 @@
+apache2/logs/
+
+mysql/data/*.err
+mysql/data/*.pid
+mysql/data/ib_logfile0
+mysql/data/ib_logfile1
